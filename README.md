@@ -1,7 +1,5 @@
 # MC-Ideas
-Repository to dump my Minecraft ideas
-
-I've never had time, but if anyone wants to make some of these ideas mods, go ahead, that would be awesome.
+Repository I made to dump my Minecraft ideas before I learned modding
 
 ## MCW Format
 Some of these ideas have been written in Minecraft Wiki page editor, to enhance the visuals.
